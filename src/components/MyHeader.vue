@@ -4,17 +4,17 @@
       <!-- 左侧导航菜单 -->
       <nav class="flex gap-10 flex-1">
         <a
-          href="#"
+          href="https://625w1a-pw.myshopify.com/"
           class="!text-white/95 no-underline text-sm font-semibold tracking-wider py-2 relative transition-all duration-300 hover:!text-white nav-link uppercase"
           >GEARS</a
         >
         <a
-          href="#"
+          href="https://625w1a-pw.myshopify.com/"
           class="!text-white/95 no-underline text-sm font-semibold tracking-wider py-2 relative transition-all duration-300 hover:!text-white nav-link uppercase"
           >JOURNAL</a
         >
         <a
-          href="#"
+          href="https://625w1a-pw.myshopify.com/"
           class="!text-white/95 no-underline text-sm font-semibold tracking-wider py-2 relative transition-all duration-300 hover:!text-white nav-link uppercase"
           >SUPPORT</a
         >
